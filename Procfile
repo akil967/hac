@@ -1,1 +1,1 @@
-worker: python lolmat.py
+worker: python new🔥v2.py
